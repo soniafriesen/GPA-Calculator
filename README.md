@@ -1,2 +1,2 @@
 # GPA-Calculator
-Using .NET WCF to create a GPA Calculator of multiple courses for each student
+Using .NET WCF  service contracts, data contracts to create a GPA Calculator of multiple courses for each student
